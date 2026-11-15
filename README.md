@@ -88,7 +88,7 @@ At this stage you should see `no tests collected`. That is expected: it means py
 ## Roadmap
 
 - [x] Project skeleton and tooling
-- [ ] First Playwright UI test
+- [x] First Playwright UI test
 - [ ] Page Object Model
 - [ ] Configuration and environments
 - [ ] Data-driven login scenarios
